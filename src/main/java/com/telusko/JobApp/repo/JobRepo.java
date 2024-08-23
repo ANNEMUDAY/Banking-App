@@ -36,6 +36,14 @@ public class JobRepo {
                 String.valueOf(List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))));
         jobs.add(new JobPost(1, "Java Developer", "Must have good experience in core Java and advanced Java", 2,
                 String.valueOf(List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))));
+        jobs.add(new JobPost(1, "Java Developer", "Must have good experience in core Java and advanced Java", 2,
+                String.valueOf(List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))));
+        jobs.add(new JobPost(1, "Java Developer", "Must have good experience in core Java and advanced Java", 2,
+                String.valueOf(List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))));
+        jobs.add(new JobPost(1, "Java Developer", "Must have good experience in core Java and advanced Java", 2,
+                String.valueOf(List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))));
+        jobs.add(new JobPost(1, "Java Developer", "Must have good experience in core Java and advanced Java", 2,
+                String.valueOf(List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))));
     }
 
     // ****************************************************************************
